@@ -1,0 +1,1 @@
+In this project, I aimed to get random data from the API and display this data with DOM. My first project that I created by taking data from the API
